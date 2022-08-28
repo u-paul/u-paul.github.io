@@ -3,7 +3,6 @@ layout: page
 title: About Me
 ---
 
-My CV in pdf can be found [here]({{site.baseurl}}/pdfs/UPaul_resume.pdf){:target="_blank"}.
 
 ### Education
 - Ph.D. Department of Computer Science, University of California Santa Barbara, Santa Barbara CA

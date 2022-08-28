@@ -23,7 +23,7 @@ description: PhD Candidate in Computer Science
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "aboutme"
+  About Me: "aboutme"
   Publications: "research"
   News: "news"
 

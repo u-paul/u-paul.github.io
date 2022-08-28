@@ -6,7 +6,8 @@ title: Curriculum Vitae
 My CV in pdf can be found [here]({{site.baseurl}}/pdfs/UPaul_resume.pdf){:target="_blank"}.
 ### Personal summary
 
-> PhD candidate of Computer science at UCSB working in the areas of internet measurement to understand and mitigate internet inequity.
+> PhD candidate of Computer science at UCSB working in the areas of internet measurement to understand and mitigate internet inequity. Passionate researcher with experience in conducting work across multidisciplinary fields of Computer Science, Electrical Engineering, Economics and Social Science. Major objective behind research is to identify and understand factors that contribute to internet disparity amongst communities and develop solutions that would enable stakeholders in mitigating the
+persistent digital gap.
 
 ### Education
 - Ph.D. Department of Computer Science, University of California Santa Barbara, Santa Barbara CA
@@ -31,9 +32,9 @@ My CV in pdf can be found [here]({{site.baseurl}}/pdfs/UPaul_resume.pdf){:target
 
 
 ### Selected Publications
-    - **Udit Paul**, Jiamo Liu, Mengyang Gu, Arpit Gupta and Elizabeth Belding, “The Importance of Contextualization of Crowdsourced Active Speed Test Measurements”, Proceedings of the ACM SIGCOMM Internet Measurement Conference 2022 (IMC ’22).
-    - **Udit Paul**, Jiamo Liu, David Farias-Llerenas, Vivek Adarsh, Arpit Gupta and Elizabeth Belding, “Characterizing Internet Access and Quality Inequities inCalifornia M-Lab Measurements”,Proceedings of the Conference on Computing and Sustainable Societies (COMPASS ’22).
-    - Vivek Adarsh, Michael Nekrasov, **Udit Paul**, Alex Ermakov, Arpit Gupta,Morgan Vigil-Hayes, Ellen Zegura, Elizabeth Belding, “Too Late for Playback: Estimation of Video Stream Quality in Rural and Urban Contexts”, Proceedings of the Passive and Active Measurement Conference (PAM ’21).
+- **Udit Paul**, Jiamo Liu, Mengyang Gu, Arpit Gupta and Elizabeth Belding, “The Importance of Contextualization of Crowdsourced Active Speed Test Measurements”, Proceedings of the ACM SIGCOMM Internet Measurement Conference 2022 (IMC ’22).
+- **Udit Paul**, Jiamo Liu, David Farias-Llerenas, Vivek Adarsh, Arpit Gupta and Elizabeth Belding, “Characterizing Internet Access and Quality Inequities inCalifornia M-Lab Measurements”,Proceedings of the Conference on Computing and Sustainable Societies (COMPASS ’22).
+- Vivek Adarsh, Michael Nekrasov, **Udit Paul**, Alex Ermakov, Arpit Gupta,Morgan Vigil-Hayes, Ellen Zegura, Elizabeth Belding, “Too Late for Playback: Estimation of Video Stream Quality in Rural and Urban Contexts”, Proceedings of the Passive and Active Measurement Conference (PAM ’21).
 
 
 

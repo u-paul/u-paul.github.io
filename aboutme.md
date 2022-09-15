@@ -8,12 +8,6 @@ title: About Me
 - Ph.D. Department of Computer Science, University of California Santa Barbara, Santa Barbara CA
 - M.S. Department of Electrical and Computer Engineering, University of Cape Town, Cape Town, South Africa
 
-
-### Technical Skills
-
-- Python, Matlab, Django, Flask, Node.js, Java, C, C++, Perl, Shell
-- Google Cloud, AWS, Azure, IBM Cloud, Kubernetes, Docker, Hadoop, Spark
-
 ### Research experience
 
 - *2018-*: **Ph.D. Computer Science, University of California Santa Barbara, Santa Barbara, CA**

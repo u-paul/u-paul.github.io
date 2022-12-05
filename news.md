@@ -3,9 +3,9 @@ layout: page
 title: News
 ---
 
-- **November 2022:** I gave an inivted talk at Ookla about our recent [paper](https://dl.acm.org/doi/abs/10.1145/3517745.3561441){:target="_blank"}.  
+- **November 2022:** I gave an invited talk at Ookla about our recent [paper](https://dl.acm.org/doi/abs/10.1145/3517745.3561441){:target="_blank"}.  
 
-- **November 2022:** I gave an inivted talk at Google (Measurement Lab) about our recent [paper](https://dl.acm.org/doi/abs/10.1145/3517745.3561441){:target="_blank"} and discussed future work.  
+- **November 2022:** I gave an invited talk at Google (Measurement Lab) about our recent [paper](https://dl.acm.org/doi/abs/10.1145/3517745.3561441){:target="_blank"} and discussed future work.  
 
 - **October 2022:** Happy to have helped with the [methodology](https://themarkup.org/show-your-work/2022/10/19/how-we-uncovered-disparities-in-internet-deals){:target="_blank"} of the published news article by [The Markup](https://themarkup.org/){:target="_blank"}: [Dollars to Megabits, You May Be Paying 400 Times As Much As Your Neighbor for Internet Service](https://themarkup.org/still-loading/2022/10/19/dollars-to-megabits-you-may-be-paying-400-times-as-much-as-your-neighbor-for-internet-service){:target="_blank"}. 
 `

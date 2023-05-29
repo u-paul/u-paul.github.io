@@ -5,15 +5,14 @@ title: About Me
 
 
 ### Education
-- Ph.D. Department of Computer Science, University of California Santa Barbara, Santa Barbara CA
-- M.S. Department of Electrical and Computer Engineering, University of Cape Town, Cape Town, South Africa
+- Ph.D. Department of Computer Science, University of California Santa Barbara, Santa Barbara CA.
+- M.S. Department of Electrical and Computer Engineering, University of Cape Town, Cape Town, South Africa.
 
 ### Research experience
 
 - *2018-*: **Ph.D. Computer Science, University of California Santa Barbara, Santa Barbara, CA**
     - Designed and developed a new “broadband offering tool” and statistical frameworks to scalably
-    collect and analyze price points of broadband offerings by major internet service providers in the U.S. The tool has been utilized to collect over **10** Million data points that enables enhanced insights into the problem
-    of digital divide in the U.S. Currently focused on utilizing this tool and methodology to characterize the
+    collect and analyze price points of broadband offerings by major internet service providers in the U.S. The tool has been utilized to collect over **10** Million data points that enables enhanced insights into the problem of digital divide in the U.S. Currently focused on utilizing this tool and methodology to characterize the
     presence and extent of digital inequity between various geographical locations and demographics
     within the US. [*in progress*]
     - Developed a novel machine learning based Broadband Subscription Tier (BST) methodology, to idenitify the subscription tier a  given speed test taken by a user originates from. The methodology significantly enhances our understanding of crowdsourced measurements which further enables effective and accurate utilization of large scale crowdsourced datasets from [Ookla](https://www.speedtest.net/){:target="_blank"} and [Measurement-Lab](https://speed.measurementlab.net/#/){:target="_blank"}. [*To appear in IMC 2022*]

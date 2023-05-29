@@ -3,6 +3,8 @@ layout: page
 title: News
 ---
 
+- **May 2023:** Our paper, *Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs”*, has been accepted for publication in the upcoming ACM SIGCOMM Conference 2023. A big shoutout to [Bright Data](https://brightdata.com/){:target="_blank"}, Zillow and NSF IMR grant to support us in conducting this work. Excited to present it in New York City in September. [Pre-print](https://arxiv.org/pdf/2302.14216.pdf){:target="_blank"}. Get in touch if you want to know more!!
+
 - **November 2022:** I gave an invited talk at Ookla about our recent [paper](https://dl.acm.org/doi/abs/10.1145/3517745.3561441){:target="_blank"}.  
 
 - **November 2022:** I gave an invited talk at Google (Measurement Lab) about our recent [paper](https://dl.acm.org/doi/abs/10.1145/3517745.3561441){:target="_blank"} and discussed future work.  

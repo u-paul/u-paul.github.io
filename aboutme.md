@@ -14,7 +14,7 @@ title: About Me
     - Part of the data science team investigating ways to detect anomalies in network performance measurements.
     - Part of the Ookla for Good team helping to create a template for better engaging with the universities and research communities.
 
-- *2018-2023: **Ph.D. Computer Science, University of California Santa Barbara, Santa Barbara, CA**
+- *2018-2023*: **Ph.D. Computer Science, University of California Santa Barbara, Santa Barbara, CA**
     - Designed and developed a new “broadband offering tool” and statistical frameworks to scalably
     collect and analyze price points of broadband offerings by major internet service providers in the U.S. The tool has been utilized to collect over **10** Million data points that enables enhanced insights into the problem of digital divide in the U.S. Currently focused on utilizing this tool and methodology to characterize the
     presence and extent of digital inequity between various geographical locations and demographics

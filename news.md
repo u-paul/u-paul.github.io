@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 
+- **September 2023:** Delighted to announce that I have joined the amazing Data Science team at Ookla. Excited to keep pushing the boundaries of internet measurement and help make the internet faster for everyone.
+
+- **September 2023:** Offically a Doctor! Delighted to have wrapped up my PhD. Thanks to my amazing advisors, collaborators, friends and family for all the support.
+
 - **June 2023:** Delighted to win the annual UCSB Computer Science awards for Outstanding Publication and Outstanding Dissertation in 2023.
 
 - **May 2023:** Our paper, *Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs”*, has been accepted for publication in the upcoming ACM SIGCOMM Conference 2023. A big shoutout to [Bright Data](https://brightdata.com/){:target="_blank"}, Zillow and NSF IMR grant to support us in conducting this work. Excited to present it in New York City in September. Check out the [pre-print](https://arxiv.org/pdf/2302.14216.pdf){:target="_blank"} here. Get in touch if you want to know more!!

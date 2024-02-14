@@ -11,7 +11,10 @@ title: About Me
 ### Work experience
 
 - *2023-*: **Data Analyst II, Ookla, Seattle, WA**
-    - Part of the data science team investigating ways to detect anomalies in network performance measurements.
+    - Created a methodology to benchmark end user’s quality of experience while accessing web pages for over 150 countries
+    - Built a IP-subnet based manipulation detection framework
+    - Developed a novel methodology to automate anomaly detection processes, significantly enhancing the system's ability to identify and respond to irregular data patterns. This methodology not only streamlined operations but also improved the accuracy and efficiency of anomaly detection, contributing to more reliable data analysis and decision-making processes.
+    - Engineered and deployed a robust data engineering pipeline using Airflow, specifically tailored to implement the newly developed anomaly detection methodology in a production environment. This strategic initiative ensured seamless integration and operational efficiency, markedly reducing manual intervention and facilitating continuous, automated analysis. The pipeline's successful deployment has led to a more dynamic, scalable, and maintainable system, bolstering the organization's data processing capabilities.
     - Part of the Ookla for Good team helping to create a template for better engaging with the universities and research communities.
 
 - *2018-2023*: **Ph.D. Computer Science, University of California Santa Barbara, Santa Barbara, CA**

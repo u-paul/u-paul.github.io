@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 
+- **July 2024:** Thrilled to embark on a new phase of my professional journey with Cisco ThousandEyes, where I've joined the Internet Measurement Research team.
+
+- **May 2024:** Thrilled to share that I have been awared the prestigious [ACM SIGCOMM Doctoral Dissertation Award](https://www.sigcomm.org/awards/dissertation){:target="_blank"}. I will be receiving the award in person during the ACM SIGCOMM 2024 conference in Sydney, Australia. A big thanks to the judges and my advisors Elizabeth Belding and Arpit Gupta.
+
 - **September 2023:** Delighted to announce that I have joined the amazing Data Science team at Ookla. Excited to keep pushing the boundaries of internet measurement and help make the internet faster for everyone.
 
 - **September 2023:** Offically a Doctor! Delighted to have wrapped up my PhD. Thanks to my amazing advisors, collaborators, friends and family for all the support.
